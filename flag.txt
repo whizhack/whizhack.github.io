@@ -1,0 +1,3 @@
+Flags are hidden inside HTML & CSS files. 
+
+use cyberchef ;) for decoding
